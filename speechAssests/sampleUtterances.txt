@@ -1,0 +1,35 @@
+UseAgainst what is super effective against {AgainstType}
+UseAgainst what do I use against {AgainstType}
+UseAgainst how do I beat {AgainstType}
+UseAgainst what is strong against {AgainstType}
+UseAgainst whats strong against {AgainstType}
+
+DontUseAgainst what is not very effective against {DontAgainstType}
+DontUseAgainst what is not effective against {DontAgainstType}
+DontUseAgainst what do I not use against {DontAgainstType}
+DontUseAgainst what don't I use against {DontAgainstType}
+DontUseAgainst what is weak against {DontAgainstType}
+DontUseAgainst whats weak against {DontAgainstType}
+
+SuperAgainst what is {SuperType} super effective against
+SuperAgainst what is {SuperType} good against
+SuperAgainst what is {SuperType} great against
+SuperAgainst what is {SuperType} awesome against
+SuperAgainst what is {SuperType} strong against
+SuperAgainst what is {SuperType} bad ass against
+
+DontSuperAgainst what is {DontSuperType} not effective against
+DontSuperAgainst what is {DontSuperType} not very effective against
+DontSuperAgainst what is {DontSuperType} not good against
+DontSuperAgainst what is {DontSuperType} not great against
+DontSuperAgainst what is {DontSuperType} not awesome against
+DontSuperAgainst what is {DontSuperType} weak against
+DontSuperAgainst what is {DontSuperType} crappy against
+DontSuperAgainst what is {DontSuperType} bad against
+DontSuperAgainst what is {DontSuperType} the suck against
+
+BestMatch what should I use against {BestMatchType}
+BestMatch what is the best against {BestMatchType}
+BestMatch what is the best match up against {BestMatchType}
+BestMatch what is the best match up for {BestMatchType}
+BestMatch how should I approach a fight against {BestMatchType}

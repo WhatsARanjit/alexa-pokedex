@@ -1,0 +1,33 @@
+{
+    "intents": [{
+        "intent": "UseAgainst",
+        "slots": [{
+            "name": "AgainstType",
+            "type": "POKEMON_TYPES"
+        }]
+    }, {
+        "intent": "DontUseAgainst",
+        "slots": [{
+            "name": "DontAgainstType",
+            "type": "POKEMON_TYPES"
+        }]
+    }, {
+        "intent": "SuperAgainst",
+        "slots": [{
+            "name": "SuperType",
+            "type": "POKEMON_TYPES"
+        }]
+    }, {
+        "intent": "DontSuperAgainst",
+        "slots": [{
+            "name": "DontSuperType",
+            "type": "POKEMON_TYPES"
+        }]
+    }, {
+        "intent": "BestMatch",
+        "slots": [{
+            "name": "BestMatchType",
+            "type": "POKEMON_TYPES"
+        }]
+    }]
+}
