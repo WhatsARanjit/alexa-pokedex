@@ -44,14 +44,14 @@ The ARN is availble from the AWS Console and will look something like this: `arn
 ### What to Use
 
 ```
-You: Ask Pokedex, Alexa, what do I use against bug?
+You: Alexa, ask Pokedex, what do I use against bug?
 Alexa: Rock, fire, and flying Pokémon are super effective against bug Pokémon.
 ```
 
 ### What Not to Use
 
 ```
-You: Ask Pokedex, Alexa, what's not very effective against water?
+You: Alexa, ask Pokedex, what's not very effective against water?
 Alexa: Fighting, grass, or water Pokémon are not very effective against water Pokémon.
 ```
 
@@ -61,6 +61,6 @@ Use this to find out which type is super effective against an enemy type,
 and also that enemy type's attacks are not very effective.
 
 ```
-You: Ask Pokedex, Alexa, what's the best match up against fire?
+You: Alexa, ask Pokedex, what's the best match up against fire?
 Alexa: The best match up against fire Pokémon is rock, or water Pokémon.
 ```
